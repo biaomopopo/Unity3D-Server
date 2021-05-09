@@ -1,0 +1,9 @@
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\bin\Debug\Server Game Frame.exe.config
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\bin\Debug\Server Game Frame.exe
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\bin\Debug\Server Game Frame.pdb
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\bin\Debug\MySql.Data.dll
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\obj\Debug\Server Game Frame.csprojAssemblyReference.cache
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\obj\Debug\Server Game Frame.csproj.CoreCompileInputs.cache
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\obj\Debug\Server Game Frame.csproj.CopyComplete
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\obj\Debug\Server Game Frame.exe
+D:\基本操作\vs测试文件\Server Game Frame\Server Game Frame\obj\Debug\Server Game Frame.pdb
